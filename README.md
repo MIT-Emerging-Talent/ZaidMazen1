@@ -1,7 +1,7 @@
 # Hi, I'm Zaid 😁
 
 I'm an engineering student who's dabbling in computer and data science out
-out of curiosity.
+of curiosity.
 
 ## Languages and Tech
 
